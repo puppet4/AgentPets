@@ -4,6 +4,10 @@ AgentPets is a small macOS companion for Claude Code and Codex. It watches your 
 
 AgentPets 是一个面向 Claude Code 和 Codex 的 macOS 桌面小助手。它会在本机监控你的 Agent 会话状态，并用一个可拖动的像素机器人、菜单栏状态项和可选 Touch Bar 展示出来。
 
+![AgentPets preview](docs/images/agentpets-preview.png)
+
+Floating desktop robot preview / 桌面悬浮机器人效果图
+
 ## What It Does
 
 - Shows whether Claude or Codex is idle, listening, thinking, working, successful, errored, or offline.
